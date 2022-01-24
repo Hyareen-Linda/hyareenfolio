@@ -1,5 +1,5 @@
 // Set the date we're counting down to
-var countDownDate = new Date("Jan 25, 2022 00:00:00").getTime();
+var countDownDate = new Date("Jan 25, 2022 23:59:00").getTime();
 
 // Update the count down every 1 second
 var countdownfunction = setInterval(function() {
